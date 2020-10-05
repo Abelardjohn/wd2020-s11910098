@@ -1,0 +1,25 @@
+#pertama{
+	
+	background-color: lightskyblue;
+	border:10px solid red;
+	margin: 10px;
+
+}
+#kedua{
+	background-color: lightskyblue;
+	border:solid 10px red;
+	margin-left: 150px;
+	margin-top: 10px;
+	
+
+}
+#ketiga{
+	background-color: lightskyblue;
+	border:solid red 10px;
+	margin-left: 290px;
+	margin-top: 20px;
+		
+}
+body{
+	background-color: yellow;
+}
